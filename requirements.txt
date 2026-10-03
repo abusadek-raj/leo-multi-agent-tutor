@@ -1,0 +1,6 @@
+
+crewai
+litellm
+python-dotenv
+pydantic
+openai
